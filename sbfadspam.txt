@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
-! Expires: 2 hours (update frequency)
-! Last modified: Sun, 04 Aug 2025 00:44:35 +0800
+! Expires: 23 hours (update frequency)
+! Last modified: Mon, 05 Aug 2025 02:05:35 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -20,9 +20,12 @@ sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread:has(+ div.windowbg:contains(SLFantasy))
 
-!----------Site Banners----------
+!------------------------------Site Banners---------------------------
 ||sammyboyforum.com/bannergraphics/
-||singsupplies.com/img/845641.jpg
+! Mobile: Block banner at the end of threads
+##div.windowbg:has(img[src="/bannergraphics/1111.png"]):has(img[src="https://singsupplies.com/img/845641.jpg"])
+! Desktop: Block banner at the end of threads
+##table.tborder:has(img[src*="845641.jpg"])
 
 !------------------------------------------------------------Health Centre and KTV lounge Tangos
 !ZAP FREE PT EXCHANGE! 
