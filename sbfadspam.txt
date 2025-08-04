@@ -1,0 +1,257 @@
+[Adblock Plus 2.0]
+! Title: SBF Advertiser Spam Blocker
+! Expires: 2 hours (update frequency)
+! Last modified: Sun, 04 Aug 2025 00:44:35 +0800
+
+
+!Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
+!------------------------------------------- Due to mobile forum limitation, user added here can only be filtered by last post ----------------------
+!SLFantasy
+##tr:has([onclick*="1008164"])
+##tr:has([onclick*="996187"])
+sammyboyforum.com##div.windowbg:contains(SLFantasy111)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(SLFantasy111))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(SLFantasy111))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(SLFantasy111))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(SLFantasy111))
+sammyboyforum.com##div.windowbg:contains(SLFantasy)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(SLFantasy))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(SLFantasy))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(SLFantasy))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(SLFantasy))
+
+!----------Site Banners----------
+||sammyboyforum.com/bannergraphics/
+||singsupplies.com/img/845641.jpg
+
+!------------------------------------------------------------Health Centre and KTV lounge Tangos
+!ZAP FREE PT EXCHANGE! 
+##tr:has([id*="724056"])
+##*:has(> a[href*="724056"])
+##*:has(> a[href*="724056"]) + div.windowbg
+
+!------------------------------------------------------------The Sammyboy link/Picture exchange Plaza [Restricted - Members only]----------
+##tr:has([id*="475776"])
+##*:has(> a[href*="475776"])
+##*:has(> a[href*="475776"]) + div.windowbg
+
+!------------------------------------------------------------JB Delights----------
+!JB KSL (4 Star Hotel Room Provided)
+##tr:has([id*="1058214"])
+##*:has(> a[href*="1058214"])
+##*:has(> a[href*="1058214"]) + div.windowbg
+
+!Cheapest Overnight In Town🌹🌹🌹At Only RM570 Onwards🔥🔥🔥
+##tr:has([id*="1058215"])
+##*:has(> a[href*="1058215"])
+##*:has(> a[href*="1058215"]) + div.windowbg
+
+!BET888
+##tr:has([id*="688635"])
+##*:has(> a[href*="688635"])
+##*:has(> a[href*="688635"]) + div.windowbg
+
+##tr:has([id*="688634"])
+##*:has(> a[href*="688634"])
+##*:has(> a[href*="688634"]) + div.windowbg
+
+!陪哥
+##tr:has([id*="901640"])
+##*:has(> a[href*="901640"])
+##*:has(> a[href*="901640"]) + div.windowbg
+
+!陪姐【7-ELEVEN+】
+##tr:has([id*="977869"])
+##*:has(> a[href*="977869"])
+##*:has(> a[href*="977869"]) + div.windowbg
+
+!IPVanish
+##tr:has([id*="659884"])
+##*:has(> a[href*="659884"])
+##*:has(> a[href*="659884"]) + div.windowbg
+
+##tr:has([id*="659886"])
+##*:has(> a[href*="659886"])
+##*:has(> a[href*="659886"]) + div.windowbg
+
+!男人天堂★★★Escorts Agency In Johor Bahru★★★柔佛天堂
+##tr:has([id*="1021211"])
+##*:has(> a[href*="1021211"])
+##*:has(> a[href*="1021211"]) + div.windowbg
+
+!Escorts Agency Johor Bahru
+##tr:has([id*="1004068"])
+##*:has(> a[href*="1004068"])
+##*:has(> a[href*="1004068"]) + div.windowbg
+
+!Cheapest Overnight Package In Town (With 4 Star Hotel Room)🔥🔥🔥 
+##tr:has([id*="1024791"])
+##*:has(> a[href*="1024791"])
+##*:has(> a[href*="1024791"]) + div.windowbg
+
+##tr:has([id*="1024788"])
+##*:has(> a[href*="1024788"])
+##*:has(> a[href*="1024788"]) + div.windowbg
+
+!Bukit Indah Sakura Top Vietnam Cheapest RM500 8hour 3shots
+##tr:has([id*="1027849"])
+##*:has(> a[href*="1027849"])
+##*:has(> a[href*="1027849"]) + div.windowbg
+
+! JBTown/B.Indah 100% REAL PHOTO Thai/Viet/Indon cheap in town 
+##tr:has([id*="867619"])
+##*:has(> a[href*="867619"])
+##*:has(> a[href*="867619"]) + div.windowbg
+
+!JB Eros - Your best choice in JB
+##tr:has([id*="889056"])
+##*:has(> a[href*="889056"])
+##*:has(> a[href*="889056"]) + div.windowbg
+
+!RubySexy Visit us @ JB TOWN
+##tr:has([id*="693315"])
+##*:has(> a[href*="693315"])
+##*:has(> a[href*="693315"]) + div.windowbg
+
+!JB.PLAZA SENTOSA.VIP SPA.REAL GIRLS PARADE SHOW 
+##tr:has([id*="1009614"])
+##*:has(> a[href*="1009614"])
+##*:has(> a[href*="1009614"]) + div.windowbg
+
+!JB Point Exchange/TCSS/Discussion 
+##tr:has([id*="633380"])
+##*:has(> a[href*="633380"])
+##*:has(> a[href*="633380"]) + div.windowbg
+
+!Bukit Indah Jbescort88 Top hotel Vietnam Cheapest RM530 8hour 3shots
+##tr:has([id*="1074195"])
+##*:has(> a[href*="1074195"])
+##*:has(> a[href*="1074195"]) + div.windowbg
+
+!--------------------------------------------------International Field Reports----------
+!SWEDISH Girl Traveling - Tall Blonde – Kinky & Open to Experiment
+##tr:has([id*="1028340"])
+##*:has(> a[href*="1028340"])
+##*:has(> a[href*="1028340"]) + div.windowbg
+
+!Genuine points exchange thread 
+##tr:has([id*="493723"])
+##*:has(> a[href*="493723"])
+##*:has(> a[href*="493723"]) + div.windowbg
+
+!--------------------------------------------------The Legal Geylang (prostitute) Scene----------
+
+!BubblyxPOP VIETNAM N2O PURE Nitrous Oxide
+##tr:has([id*="1071308"])
+##*:has(> a[href*="1071308"])
+##*:has(> a[href*="1071308"]) + div.windowbg
+
+##tr:has([id*="1070735"])
+##*:has(> a[href*="1070735"])
+##*:has(> a[href*="1070735"]) + div.windowbg
+
+!CUMPILATION OF VERIFIED REVIEWS FOR- Ron&Sam's VIAGRA PILLS! UPDATED POST!
+##tr:has([id*="1003276"])
+##*:has(> a[href*="1003276"])
+##*:has(> a[href*="1003276"]) + div.windowbg
+
+!Ron&Sam's VIAGRA,CIALIS,PREMATURE EJAC PILLS From $5 Only REAL Samster REVIEWS
+##tr:has([id*="966769"])
+##*:has(> a[href*="966769"])
+##*:has(> a[href*="966769"]) + div.windowbg
+
+!Thread for Exchange Points / Flame trolling / Copy Frs 
+##tr:has([id*="337422"])
+##*:has(> a[href*="337422"])
+##*:has(> a[href*="337422"]) + div.windowbg
+
+!--------------------------------------------------Adult Discussions about SEX----------
+!Taiwan business trip to meet the lady hotel door-to-door service
+##tr:has([id*="1075926"])
+##*:has(> a[href*="1075926"])
+##*:has(> a[href*="1075926"]) + div.windowbg
+
+!Taiwan calls the hotel to provide door-to-door service to the student girl
+##tr:has([id*="1076005"])
+##*:has(> a[href*="1076005"])
+##*:has(> a[href*="1076005"]) + div.windowbg
+
+!Taiwanese model part-time E cup and amazing S-shaped curves, she is a man's dream
+##tr:has([id*="1076006"])
+##*:has(> a[href*="1076006"])
+##*:has(> a[href*="1076006"]) + div.windowbg
+
+!BubblyxPOP VIETNAM N2O PURE Nitrous Oxide
+##tr:has([id*="1071542"])
+##*:has(> a[href*="1071542"])
+##*:has(> a[href*="1071542"]) + div.windowbg
+
+!MENSPLUS-Pills For Men. Faster Recovery, Harder Erections, ED Solutions.
+##tr:has([id*="654061"])
+##*:has(> a[href*="654061"])
+##*:has(> a[href*="654061"]) + div.windowbg
+
+!Sopico (苏比克）power coffee drink for harder and longer lasting sex
+##tr:has([id*="857960"])
+##*:has(> a[href*="857960"])
+##*:has(> a[href*="857960"]) + div.windowbg
+
+!CUMPILATION OF VERIFIED REVIEWS FOR- Ron&Sam's VIAGRA PILLS! UPDATED POST!
+!##tr:has([id*="1003276"])
+!##*:has(> a[href*="1003275"])
+!##*:has(> a[href*="1003275"]) + div.windowbg
+
+!Ron&Sam's VIAGRA,CIALIS,PREMATURE EJAC PILLS From $5 Only REAL Samster REVIEWS
+!##tr:has([id*="966767"])
+!##*:has(> a[href*="966767"])
+!##*:has(> a[href*="966767"]) + div.windowbg
+
+!Bear Bile Powder <药中黄金-熊胆粉> Specially made for drinkers and MEN!
+##tr:has([id*="1033273"])
+##*:has(> a[href*="1033273"])
+##*:has(> a[href*="1033273"]) + div.windowbg
+
+!Welcome to DrVapeee's shop ; a wide variety of vape supplies
+##tr:has([id*="961704"])
+##*:has(> a[href*="961704"])
+##*:has(> a[href*="961704"]) + div.windowbg
+
+!Exchange points in ZAP FREE zone! 
+##tr:has([id*="563867"])
+##*:has(> a[href*="563867"])
+##*:has(> a[href*="563867"]) + div.windowbg
+
+!Points exchange with minimum 1 power 
+##tr:has([id*="1022692"])
+##*:has(> a[href*="1022692"])
+##*:has(> a[href*="1022692"]) + div.windowbg
+
+!All Newbies & those wanna to get their 1st power fall in here 
+##tr:has([id*="577062"])
+##*:has(> a[href*="577062"])
+##*:has(> a[href*="577062"]) + div.windowbg
+
+!someone buying sammyboyforum userid
+##tr:has([id*="349391"])
+##*:has(> a[href*="349391"])
+##*:has(> a[href*="349391"]) + div.windowbg
+
+!premium point exchange corner points 10^ / general discussion
+##tr:has([id*="708852"])
+##*:has(> a[href*="708852"])
+##*:has(> a[href*="708852"]) + div.windowbg
+
+!Thread For Exchange Of Points 
+##tr:has([id*="654871"])
+##*:has(> a[href*="654871"])
+##*:has(> a[href*="654871"]) + div.windowbg
+
+!Exposed Donor Clones Zapper 
+##tr:has([id*="655809"])
+##*:has(> a[href*="655809"])
+##*:has(> a[href*="655809"]) + div.windowbg
+
+!MEET BEAUTIFUL RUSSIAN LADIES NOW! ONLINE GIRLFRIEND EXPERIENCE!
+##tr:has([id*="1038766"])
+##*:has(> a[href*="1038766"])
+##*:has(> a[href*="1038766"]) + div.windowbg
