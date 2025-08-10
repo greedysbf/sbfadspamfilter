@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Mon, 05 Aug 2025 10:50:35 +0800
+! Last modified: Mon, 11 Aug 2025 07:01:35 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -169,6 +169,11 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(SLFantasy))
 ##*:has(> a[href*="337422"]) + div.windowbg
 
 !--------------------------------------------------Adult Discussions about SEX----------
+!Xiaoru｜156 |E｜43｜19 years old Xiaoru is a very well-behaved girl 
+##tr:has([id*="1076818"])
+##*:has(> a[href*="1076818"])
+##*:has(> a[href*="1076818"]) + div.windowbg
+
 !Taiwan business trip to meet the lady hotel door-to-door service
 ##tr:has([id*="1075926"])
 ##*:has(> a[href*="1075926"])
