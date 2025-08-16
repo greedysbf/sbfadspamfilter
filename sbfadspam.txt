@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Mon, 11 Aug 2025 07:01:35 +0800
+! Last modified: Sun, 17 Aug 2025 02:25:35 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -19,6 +19,14 @@ sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread:has(+ div.windowbg:contains(SLFantasy))
+
+!kaaron
+##tr:has([onclick*="992642"])
+sammyboyforum.com##div.windowbg:contains(kaaron)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(kaaron))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(kaaron))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(kaaron))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(kaaron))
 
 !------------------------------Site Banners---------------------------
 ||sammyboyforum.com/bannergraphics/
