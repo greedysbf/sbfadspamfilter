@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Sun, 17 Aug 2025 02:25:35 +0800
+! Last modified: Mon, 30 Aug 2025 03:58:35 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -30,6 +30,7 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(kaaron))
 
 !------------------------------Site Banners---------------------------
 ||sammyboyforum.com/bannergraphics/
+||sammyboyforum.com/images/twitter.png
 ! Mobile: Block banner at the end of threads
 ##div.windowbg:has(a[href*="asiangirlsnextdoor.com"])
 ! Desktop: Block banner at the end of threads
