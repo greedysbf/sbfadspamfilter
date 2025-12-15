@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Tue, 16 Dec 2025 00:34:00 +0800
+! Last modified: Tue, 16 Dec 2025 00:56:00 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -27,6 +27,38 @@ sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(kaaron))
 sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(kaaron))
 sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(kaaron))
 sammyboyforum.com##div.thread:has(+ div.windowbg:contains(kaaron))
+
+!FantaGrape
+##tr:has([onclick*="986529"])
+sammyboyforum.com##div.windowbg:contains(FantaGrape)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(FantaGrape))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(FantaGrape))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(FantaGrape))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(FantaGrape))
+
+!FantaCherry
+##tr:has([onclick*="989197"])
+sammyboyforum.com##div.windowbg:contains(FantaCherry)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(FantaCherry))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(FantaCherry))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(FantaCherry))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(FantaCherry))
+
+!MassageGuide
+##tr:has([onclick*="975017"])
+sammyboyforum.com##div.windowbg:contains(MassageGuide)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(MassageGuide))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(MassageGuide))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(MassageGuide))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassageGuide))
+
+!just4pleasure99
+##tr:has([onclick*="1094300"])
+sammyboyforum.com##div.windowbg:contains(just4pleasure99)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(just4pleasure99))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(just4pleasure99))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(just4pleasure99))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(just4pleasure99))
 
 !------------------------------Site Banners---------------------------
 ||sammyboyforum.com/bannergraphics/
