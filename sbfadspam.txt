@@ -60,6 +60,14 @@ sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(just4pleasure9
 sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(just4pleasure99))
 sammyboyforum.com##div.thread:has(+ div.windowbg:contains(just4pleasure99))
 
+!TequilaBoy
+##tr:has([onclick*="925553"])
+sammyboyforum.com##div.windowbg:contains(TequilaBoy)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(TequilaBoy))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(TequilaBoy))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(TequilaBoy))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(TequilaBoy))
+
 !------------------------------Site Banners---------------------------
 ||sammyboyforum.com/bannergraphics/
 ||sammyboyforum.com/images/twitter.png
