@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Fri, 24 Oct 2025 09:00:00 +0800
+! Last modified: Tue, 16 Dec 2025 00:34:00 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -41,6 +41,51 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(kaaron))
 ##tr:has([id*="724056"])
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
+
+!Slim & Sexy Viets! 21yo KTV Model Just Arrived! @ Farrer Park
+##tr:has([id*="1087031"])
+##*:has(> a[href*="1087031"])
+##*:has(> a[href*="1087031"]) + div.windowbg
+
+!Katong Slender Babes! Playful & Teasing!
+##tr:has([id*="1086922"])
+##*:has(> a[href*="1086922"])
+##*:has(> a[href*="1086922"]) + div.windowbg
+
+!Slim Chinese Cuties & Dancer!! @ TPY
+##tr:has([id*="1084266"])
+##*:has(> a[href*="1084266"])
+##*:has(> a[href*="1084266"]) + div.windowbg
+
+!24yo Macau & more SYTs! @ Jalan Besar
+##tr:has([id*="1044691"])
+##*:has(> a[href*="1044691"])
+##*:has(> a[href*="1044691"]) + div.windowbg
+
+!Cute & Sweet Gems! @ Eunos (Previously Paya Lebar)
+##tr:has([id*="1053097"])
+##*:has(> a[href*="1053097"])
+##*:has(> a[href*="1053097"]) + div.windowbg
+
+!Fresh to Industry, Young Pretty SYTs! @ Geylang
+##tr:has([id*="1083851"])
+##*:has(> a[href*="1083851"])
+##*:has(> a[href*="1083851"]) + div.windowbg
+
+!(New Girls Updated!!) Taiwanese & Boob Lovers! @ Kitchener Road
+##tr:has([id*="1058311"])
+##*:has(> a[href*="1058311"])
+##*:has(> a[href*="1058311"]) + div.windowbg
+
+!Eunos B2B Nuru & Slim SYTs!!
+##tr:has([id*="1092360"])
+##*:has(> a[href*="1092360"])
+##*:has(> a[href*="1092360"]) + div.windowbg
+
+!(New Girls Update!) Chio Sexy SYTs @ Taiseng
+##tr:has([id*="1071617"])
+##*:has(> a[href*="1071617"])
+##*:has(> a[href*="1071617"]) + div.windowbg
 
 !------------------------------------------------------------The Sammyboy link/Picture exchange Plaza [Restricted - Members only]----------
 ##tr:has([id*="475776"])
