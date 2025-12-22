@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Tue, 16 Dec 2025 00:56:00 +0800
+! Last modified: Tue, 23 Dec 2025 05:46:00 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -81,6 +81,71 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(TequilaBoy))
 ##tr:has([id*="724056"])
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
+
+!Bee SPA@7500A Beach Road #01-303 The Plaza S'pore 199591
+##tr:has([id*="1085657"])
+##*:has(> a[href*="1085657"])
+##*:has(> a[href*="1085657"]) + div.windowbg
+
+!Nova Wellness@ Upper Boon Keng, Wonderful feeling of relaxing
+##tr:has([id*="1087932"])
+##*:has(> a[href*="1087932"])
+##*:has(> a[href*="1087932"]) + div.windowbg
+
+!Welcome MoMo Wellness Spa Location @520 North Bridge Rd #05-01
+##tr:has([id*="1085880"])
+##*:has(> a[href*="1085880"])
+##*:has(> a[href*="1085880"]) + div.windowbg
+
+!E3 Wellness Spa Location@520 North Bridge Rd #02~01 Wisma Alsagoff S'pore 188742
+##tr:has([id*="1085653"])
+##*:has(> a[href*="1085653"])
+##*:has(> a[href*="1085653"]) + div.windowbg
+
+!Wendy Sexy and charming figure her soft tongue wrapped around Yr JJ
+##tr:has([id*="1093613"])
+##*:has(> a[href*="1093613"])
+##*:has(> a[href*="1093613"]) + div.windowbg
+
+!Relaxing spa in Moonstone area with model quality
+##tr:has([id*="1078744"])
+##*:has(> a[href*="1078744"])
+##*:has(> a[href*="1078744"]) + div.windowbg
+
+!Slim D cups Office Lady Lookalike with Long Hair, Foxy Look and in Yoga Pants!
+##tr:has([id*="1078933"])
+##*:has(> a[href*="1078933"])
+##*:has(> a[href*="1078933"]) + div.windowbg
+
+!Hanna: 22 years old young viet 38D
+##tr:has([id*="1094559"])
+##*:has(> a[href*="1094559"])
+##*:has(> a[href*="1094559"]) + div.windowbg
+
+!le le: new sexy photos of her in bikini
+##tr:has([id*="1092075"])
+##*:has(> a[href*="1092075"])
+##*:has(> a[href*="1092075"]) + div.windowbg
+
+!Lisa Pretty Busty, Her GFE tops the chart with her irresistible foxiness
+##tr:has([id*="1094647"])
+##*:has(> a[href*="1094647"])
+##*:has(> a[href*="1094647"]) + div.windowbg
+
+!Lucy Pretty With Extraordinaire Sexy, Playful Massage
+##tr:has([id*="1094644"])
+##*:has(> a[href*="1094644"])
+##*:has(> a[href*="1094644"]) + div.windowbg
+
+!Sexy Babe Great Body Line Discreet beauty parlour located at Beach Rd
+##tr:has([id*="1093626"])
+##*:has(> a[href*="1093626"])
+##*:has(> a[href*="1093626"]) + div.windowbg
+
+!Pretty & Sweet Babe Whole Body Msg, Good Companion & Service Location Sims Ave
+##tr:has([id*="1093570"])
+##*:has(> a[href*="1093570"])
+##*:has(> a[href*="1093570"]) + div.windowbg
 
 !Slim & Sexy Viets! 21yo KTV Model Just Arrived! @ Farrer Park
 ##tr:has([id*="1087031"])
