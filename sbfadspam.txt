@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Tue, 23 Dec 2025 05:46:00 +0800
+! Last modified: Tue, 23 Dec 2025 06:07:00 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -68,6 +68,14 @@ sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(TequilaBoy))
 sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(TequilaBoy))
 sammyboyforum.com##div.thread:has(+ div.windowbg:contains(TequilaBoy))
 
+!MassiveCock
+##tr:has([onclick*="1080944"])
+sammyboyforum.com##div.windowbg:contains(MassiveCock)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(MassiveCock))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(MassiveCock))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(MassiveCock))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
+
 !------------------------------Site Banners---------------------------
 ||sammyboyforum.com/bannergraphics/
 ||sammyboyforum.com/images/twitter.png
@@ -81,6 +89,31 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(TequilaBoy))
 ##tr:has([id*="724056"])
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
+
+!Cozy Delightful Spa in town
+##tr:has([id*="1093771"])
+##*:has(> a[href*="1093771"])
+##*:has(> a[href*="1093771"]) + div.windowbg
+
+!Welcome Ji Yan TCM will have a feeling of relaxation and comfort
+##tr:has([id*="1093606"])
+##*:has(> a[href*="1093606"])
+##*:has(> a[href*="1093606"]) + div.windowbg
+
+!Yo Yo Sexy & Slim with surprisingly huge best part is her GFE 
+##tr:has([id*="1093585"])
+##*:has(> a[href*="1093585"])
+##*:has(> a[href*="1093585"]) + div.windowbg
+
+!Wellness Moments @ Bugis Cube Everyone Deserves A Little Pampering
+##tr:has([id*="1048892"])
+##*:has(> a[href*="1048892"])
+##*:has(> a[href*="1048892"]) + div.windowbg
+
+!Tang Tang- Soild Max GFE Lady here to serve you
+##tr:has([id*="1083720"])
+##*:has(> a[href*="1083720"])
+##*:has(> a[href*="1083720"]) + div.windowbg
 
 !Bee SPA@7500A Beach Road #01-303 The Plaza S'pore 199591
 ##tr:has([id*="1085657"])
