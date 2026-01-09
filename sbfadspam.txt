@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Tue, 23 Dec 2025 06:07:00 +0800
+! Last modified: Sat, 10 Jan 2026 04:04:00 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -89,6 +89,86 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##tr:has([id*="724056"])
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
+
+!Hong Spa @ 82A Serangoon Garden Way
+##tr:has([id*="1084390"])
+##*:has(> a[href*="1084390"])
+##*:has(> a[href*="1084390"]) + div.windowbg
+
+!Forever Spa @ River Valley Area
+##tr:has([id*="1089379"])
+##*:has(> a[href*="1089379"])
+##*:has(> a[href*="1089379"]) + div.windowbg
+
+!Hito Iki Spa @ 35 Telok Blangah Rise
+##tr:has([id*="1095301"])
+##*:has(> a[href*="1095301"])
+##*:has(> a[href*="1095301"]) + div.windowbg
+
+!Brand New Shop @ pal Crescent
+##tr:has([id*="1095600"])
+##*:has(> a[href*="1095600"])
+##*:has(> a[href*="1095600"]) + div.windowbg
+
+!Doris E cup Natural Soft Teasing Services Jap B2B Massage & More Services
+##tr:has([id*="1095700"])
+##*:has(> a[href*="1095700"])
+##*:has(> a[href*="1095700"]) + div.windowbg
+
+!YoYo Sexy,charming, naturally plump 36D Which outfit should, wear to serve you.
+##tr:has([id*="1095696"])
+##*:has(> a[href*="1095696"])
+##*:has(> a[href*="1095696"]) + div.windowbg
+
+!BIGGG Boobs Lovers Joint Near Jalan Besar
+##tr:has([id*="1093648"])
+##*:has(> a[href*="1093648"])
+##*:has(> a[href*="1093648"]) + div.windowbg
+
+!Huge Cozy Spa With Beautiful MLs @North Bridge Road (Open 24 Hours)
+##tr:has([id*="1095695"])
+##*:has(> a[href*="1095695"])
+##*:has(> a[href*="1095695"]) + div.windowbg
+
+!Chio Slim SYTs @ Heartlands AMK!
+##tr:has([id*="1082141"])
+##*:has(> a[href*="1082141"])
+##*:has(> a[href*="1082141"]) + div.windowbg
+
+!Hebe: 22yo, Natural-D Cup, Sexy KTV Model!
+##tr:has([id*="1095661"])
+##*:has(> a[href*="1095661"])
+##*:has(> a[href*="1095661"]) + div.windowbg
+
+!Viet SYT Anna: High GFE, Slim, Sexy & Playful!
+##tr:has([id*="1095735"])
+##*:has(> a[href*="1095735"])
+##*:has(> a[href*="1095735"]) + div.windowbg
+
+!Cherry: 23yo Wild & Playful Bombshell
+##tr:has([id*="1095798"])
+##*:has(> a[href*="1095798"])
+##*:has(> a[href*="1095798"]) + div.windowbg
+
+!Pinky: 24yo Skinny Viet Natural Beauty!
+##tr:has([id*="1094874"])
+##*:has(> a[href*="1094874"])
+##*:has(> a[href*="1094874"]) + div.windowbg
+
+!Ling Pretty Busty, Her GFE tops the chart with her irresistible foxiness
+##tr:has([id*="1095317"])
+##*:has(> a[href*="1095317"])
+##*:has(> a[href*="1095317"]) + div.windowbg
+
+!Feminine Lady Providing Hair Spa & Ear Digging/IPL
+##tr:has([id*="1092486"])
+##*:has(> a[href*="1092486"])
+##*:has(> a[href*="1092486"]) + div.windowbg
+
+!Nice & Relaxing Spa Near Bugis Area With Skillful & Pretty ML
+##tr:has([id*="1093492"])
+##*:has(> a[href*="1093492"])
+##*:has(> a[href*="1093492"]) + div.windowbg
 
 !Cozy Delightful Spa in town
 ##tr:has([id*="1093771"])
