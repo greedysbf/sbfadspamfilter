@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Sat, 10 Jan 2026 04:04:00 +0800
+! Last modified: Sat, 20 Mar 2026 00:54:00 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -89,6 +89,51 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##tr:has([id*="724056"])
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
+
+!SUNNY YANG SHENG GE MAXWELL MRT/BANDA ST
+##tr:has([id*="1103134"])
+##*:has(> a[href*="1103134"])
+##*:has(> a[href*="1103134"]) + div.windowbg
+
+!Crown Spa @ 10 Mohamed Sultan Road
+##tr:has([id*="1107708"])
+##*:has(> a[href*="1107708"])
+##*:has(> a[href*="1107708"]) + div.windowbg
+
+!Sexy Good-Looking MILF! @ Macpherson
+##tr:has([id*="1071971"])
+##*:has(> a[href*="1071971"])
+##*:has(> a[href*="1071971"]) + div.windowbg
+
+!Kimmy Thai massage, Juagen 抓根 Prostate & Nuru
+##tr:has([id*="1099102"])
+##*:has(> a[href*="1099102"])
+##*:has(> a[href*="1099102"]) + div.windowbg
+
+!Tiong-Brix Gems Adorable Viets & China Beauties  Naughty Fun Awaits!
+##tr:has([id*="1107078"])
+##*:has(> a[href*="1107078"])
+##*:has(> a[href*="1107078"]) + div.windowbg
+
+!Balestier Local SG & SYTs! (Previously Kembangan)
+##tr:has([id*="1106656"])
+##*:has(> a[href*="1106656"])
+##*:has(> a[href*="1106656"]) + div.windowbg
+
+!Boon Keng's Bbbj Gems! CoF & CiM!!
+##tr:has([id*="1106161"])
+##*:has(> a[href*="1106161"])
+##*:has(> a[href*="1106161"]) + div.windowbg
+
+!Kitchener E-Cup Boobs & Slim Dancer!
+##tr:has([id*="1105138"])
+##*:has(> a[href*="1105138"])
+##*:has(> a[href*="1105138"]) + div.windowbg
+
+!Bartley's Service Queens: Bbbj, CIM, One-Dragon & More!
+##tr:has([id*="1100878"])
+##*:has(> a[href*="1100878"])
+##*:has(> a[href*="1100878"]) + div.windowbg
 
 !Hong Spa @ 82A Serangoon Garden Way
 ##tr:has([id*="1084390"])
@@ -326,10 +371,20 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##*:has(> a[href*="1058214"])
 ##*:has(> a[href*="1058214"]) + div.windowbg
 
-!Cheapest Overnight In Town🌹🌹🌹At Only RM570 Onwards🔥🔥🔥
+!JB KSL Area 4 Star Hotel
+##tr:has([id*="1105367"])
+##*:has(> a[href*="1105367"])
+##*:has(> a[href*="1105367"]) + div.windowbg
+
+!Cheapest Overnight In Town At Only RM570 Onwards
 ##tr:has([id*="1058215"])
 ##*:has(> a[href*="1058215"])
 ##*:has(> a[href*="1058215"]) + div.windowbg
+
+!Cheapest Overnight In Town From Only RM600 Onward
+##tr:has([id*="1105371"])
+##*:has(> a[href*="1105371"])
+##*:has(> a[href*="1105371"]) + div.windowbg
 
 !BET888
 ##tr:has([id*="688635"])
@@ -359,7 +414,7 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##*:has(> a[href*="659886"])
 ##*:has(> a[href*="659886"]) + div.windowbg
 
-!男人天堂★★★Escorts Agency In Johor Bahru★★★柔佛天堂
+!男人天堂Escorts Agency In Johor Bahru柔佛天堂
 ##tr:has([id*="1021211"])
 ##*:has(> a[href*="1021211"])
 ##*:has(> a[href*="1021211"]) + div.windowbg
