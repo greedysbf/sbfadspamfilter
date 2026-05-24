@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Sat, 20 Mar 2026 00:54:55 +0800
+! Last modified: Sat, 25 May 2026 02:34:55 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -19,6 +19,14 @@ sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(SLFantasy))
 sammyboyforum.com##div.thread:has(+ div.windowbg:contains(SLFantasy))
+
+!liuliangirl
+##tr:has([onclick*="1121235"])
+sammyboyforum.com##div.windowbg:contains(liuliangirl)
+sammyboyforum.com##div.thread_hot:has(+ div.windowbg:contains(liuliangirl))
+sammyboyforum.com##div.thread_hot_new:has(+ div.windowbg:contains(liuliangirl))
+sammyboyforum.com##div.thread_new:has(+ div.windowbg:contains(liuliangirl))
+sammyboyforum.com##div.thread:has(+ div.windowbg:contains(liuliangirl))
 
 !kaaron
 ##tr:has([onclick*="992642"])
@@ -89,6 +97,83 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##tr:has([id*="724056"])
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
+
+##tr:has([id*="1098239"])
+##*:has(> a[href*=1098239"])
+##*:has(> a[href*="1098239"]) + div.windowbg
+
+##tr:has([id*="1118316"])
+##*:has(> a[href*=1118316"])
+##*:has(> a[href*="1118316"]) + div.windowbg
+
+##tr:has([id*="1117085"])
+##*:has(> a[href*=1117085"])
+##*:has(> a[href*="1117085"]) + div.windowbg
+
+##tr:has([id*="1118104"])
+##*:has(> a[href*=1118104"])
+##*:has(> a[href*="1118104"]) + div.windowbg
+
+##tr:has([id*="1110359"])
+##*:has(> a[href*=1110359"])
+##*:has(> a[href*="1110359"]) + div.windowbg
+
+##tr:has([id*="1118311"])
+##*:has(> a[href*=1118311"])
+##*:has(> a[href*="1118311"]) + div.windowbg
+
+##tr:has([id*="1116836"])
+##*:has(> a[href*=1116836"])
+##*:has(> a[href*="1116836"]) + div.windowbg
+
+##tr:has([id*="1111807"])
+##*:has(> a[href*=1111807"])
+##*:has(> a[href*="1111807"]) + div.windowbg
+
+!FOREVER YOU SPA RIVER VALLEY 62355308
+##tr:has([id*="1117003"])
+##*:has(> a[href*="1117003"])
+##*:has(> a[href*="1117003"]) + div.windowbg
+
+!PLAYFUL FLIRTY & TEMPTING LADIES!! BEDOK AREA
+##tr:has([id*="1116681"])
+##*:has(> a[href*="1116681"])
+##*:has(> a[href*="1116681"]) + div.windowbg
+
+!Y2 SPA UPPER BOON KENG ROAD  69807290
+##tr:has([id*="1115955"])
+##*:has(> a[href*="1115955"])
+##*:has(> a[href*="1115955"]) + div.windowbg
+
+!MU Wellness at Bedok Reservoir! Cute & Bubbly MLs!
+##tr:has([id*="1111032"])
+##*:has(> a[href*="1111032"])
+##*:has(> a[href*="1111032"]) + div.windowbg
+
+!Lavender: Fresh D-Cup SYT Newbie & Wild Queens!
+##tr:has([id*="1112723"])
+##*:has(> a[href*="1112723"])
+##*:has(> a[href*="1112723"]) + div.windowbg
+
+!Kembangan: Natural-D SYT & Slim Model!
+##tr:has([id*="1111179"])
+##*:has(> a[href*="1111179"])
+##*:has(> a[href*="1111179"]) + div.windowbg
+
+!East Coast SYTs & Natural D-Cups!
+##tr:has([id*="1118772"])
+##*:has(> a[href*="1118772"])
+##*:has(> a[href*="1118772"]) + div.windowbg
+
+!West Coast: Petite Babes! IPL & Facial!
+##tr:has([id*="1109436"])
+##*:has(> a[href*="1109436"])
+##*:has(> a[href*="1109436"]) + div.windowbg
+
+!Bugis: Model Quality Slim Bod SYT
+##tr:has([id*="1108431"])
+##*:has(> a[href*="1108431"])
+##*:has(> a[href*="1108431"]) + div.windowbg
 
 !SYT TianTian: Innocent GND, Fresh to Industry!
 ##tr:has([id*="1107441"])
@@ -485,7 +570,6 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##*:has(> a[href*="493723"]) + div.windowbg
 
 !--------------------------------------------------The Legal Geylang (prostitute) Scene----------
-
 !BubblyxPOP VIETNAM N2O PURE Nitrous Oxide
 ##tr:has([id*="1071308"])
 ##*:has(> a[href*="1071308"])
@@ -510,7 +594,7 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##*:has(> a[href*="337422"])
 ##*:has(> a[href*="337422"]) + div.windowbg
 
-! Bowiek photo 
+!Bowiek photo 
 ##tr:has([id*="1084134"])
 ##*:has(> a[href*="1084134"])
 ##*:has(> a[href*="1084134"]) + div.windowbg
