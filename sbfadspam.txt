@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Sat, 25 May 2026 02:35:55 +0800
+! Last modified: Sat, 29 May 2026 04:32:55 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -97,6 +97,23 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##tr:has([id*="724056"])
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
+
+
+##tr:has([id*="1118108"])
+##*:has(> a[href*=1118108"])
+##*:has(> a[href*="1118108"]) + div.windowbg
+
+##tr:has([id*="1119697"])
+##*:has(> a[href*=1119697"])
+##*:has(> a[href*="1119697"]) + div.windowbg
+
+##tr:has([id*="1119656"])
+##*:has(> a[href*=1119656"])
+##*:has(> a[href*="1119656"]) + div.windowbg
+
+##tr:has([id*="1119615"])
+##*:has(> a[href*=1119615"])
+##*:has(> a[href*="1119615"]) + div.windowbg
 
 ##tr:has([id*="1115442"])
 ##*:has(> a[href*=1115442"])
@@ -462,6 +479,15 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##*:has(> a[href*="475776"]) + div.windowbg
 
 !------------------------------------------------------------JB Delights----------
+
+##tr:has([id*="1112420"])
+##*:has(> a[href*=1112420"])
+##*:has(> a[href*="1112420"]) + div.windowbg
+
+##tr:has([id*="1112419"])
+##*:has(> a[href*=1112419"])
+##*:has(> a[href*="1112419"]) + div.windowbg
+
 !JB Special Service  Sensual B2B Massage Hotel Full Service  SYT
 ##tr:has([id*="1079668"])
 ##*:has(> a[href*="1079668"])
