@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: SBF Advertiser Spam Blocker
 ! Expires: 23 hours (update frequency)
-! Last modified: Sat, 29 May 2026 04:32:55 +0800
+! Last modified: Sat, 30 May 2026 00:32:55 +0800
 
 
 !Hide User ------------------------------------------------- THESE are persistent bad advertisers creating multiple threads ------------------
@@ -98,69 +98,88 @@ sammyboyforum.com##div.thread:has(+ div.windowbg:contains(MassiveCock))
 ##*:has(> a[href*="724056"])
 ##*:has(> a[href*="724056"]) + div.windowbg
 
+##tr:has([id*="1102813"])
+##*:has(> a[href*="1102813"])
+##*:has(> a[href*="1102813"]) + div.windowbg
+
+##tr:has([id*="1111251"])
+##*:has(> a[href*="1111251"])
+##*:has(> a[href*="1111251"]) + div.windowbg
+
+##tr:has([id*="1119427"])
+##*:has(> a[href*="1119427"])
+##*:has(> a[href*="1119427"]) + div.windowbg
+
+##tr:has([id*="1110293"])
+##*:has(> a[href*="1110293"])
+##*:has(> a[href*="1110293"]) + div.windowbg
+
+##tr:has([id*="1111729"])
+##*:has(> a[href*="1111729"])
+##*:has(> a[href*="1111729"]) + div.windowbg
 
 ##tr:has([id*="1118108"])
-##*:has(> a[href*=1118108"])
+##*:has(> a[href*="1118108"])
 ##*:has(> a[href*="1118108"]) + div.windowbg
 
 ##tr:has([id*="1119697"])
-##*:has(> a[href*=1119697"])
+##*:has(> a[href*="1119697"])
 ##*:has(> a[href*="1119697"]) + div.windowbg
 
 ##tr:has([id*="1119656"])
-##*:has(> a[href*=1119656"])
+##*:has(> a[href*="1119656"])
 ##*:has(> a[href*="1119656"]) + div.windowbg
 
 ##tr:has([id*="1119615"])
-##*:has(> a[href*=1119615"])
+##*:has(> a[href*="1119615"])
 ##*:has(> a[href*="1119615"]) + div.windowbg
 
 ##tr:has([id*="1115442"])
-##*:has(> a[href*=1115442"])
+##*:has(> a[href*="1115442"])
 ##*:has(> a[href*="1115442"]) + div.windowbg
 
 ##tr:has([id*="1078893"])
-##*:has(> a[href*=1078893"])
+##*:has(> a[href*="1078893"])
 ##*:has(> a[href*="1078893"]) + div.windowbg
 
 ##tr:has([id*="1080420"])
-##*:has(> a[href*=1080420"])
+##*:has(> a[href*="1080420"])
 ##*:has(> a[href*="1080420"]) + div.windowbg
 
 ##tr:has([id*="1108117"])
-##*:has(> a[href*=1108117"])
+##*:has(> a[href*="1108117"])
 ##*:has(> a[href*="1108117"]) + div.windowbg
 
 ##tr:has([id*="1098239"])
-##*:has(> a[href*=1098239"])
+##*:has(> a[href*="1098239"])
 ##*:has(> a[href*="1098239"]) + div.windowbg
 
 ##tr:has([id*="1118316"])
-##*:has(> a[href*=1118316"])
+##*:has(> a[href*="1118316"])
 ##*:has(> a[href*="1118316"]) + div.windowbg
 
 ##tr:has([id*="1117085"])
-##*:has(> a[href*=1117085"])
+##*:has(> a[href*="1117085"])
 ##*:has(> a[href*="1117085"]) + div.windowbg
 
 ##tr:has([id*="1118104"])
-##*:has(> a[href*=1118104"])
+##*:has(> a[href*="1118104"])
 ##*:has(> a[href*="1118104"]) + div.windowbg
 
 ##tr:has([id*="1110359"])
-##*:has(> a[href*=1110359"])
+##*:has(> a[href*="1110359"])
 ##*:has(> a[href*="1110359"]) + div.windowbg
 
 ##tr:has([id*="1118311"])
-##*:has(> a[href*=1118311"])
+##*:has(> a[href*="1118311"])
 ##*:has(> a[href*="1118311"]) + div.windowbg
 
 ##tr:has([id*="1116836"])
-##*:has(> a[href*=1116836"])
+##*:has(> a[href*="1116836"])
 ##*:has(> a[href*="1116836"]) + div.windowbg
 
 ##tr:has([id*="1111807"])
-##*:has(> a[href*=1111807"])
+##*:has(> a[href*="1111807"])
 ##*:has(> a[href*="1111807"]) + div.windowbg
 
 !FOREVER YOU SPA RIVER VALLEY 62355308
