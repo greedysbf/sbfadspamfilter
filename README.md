@@ -1,4 +1,4 @@
-Spam filter for sbf forum. Used by uBlock Origins to block advertising and point trading threads.
+Spam filter for sammyboy forum. Used by uBlock Origins to block advertising and point trading threads.
 
 How to use:
 1. Open uBlock Origins
